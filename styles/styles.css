@@ -124,7 +124,7 @@ p {
 .container__black {
   margin: 0 auto;
   margin-top: 150px;
-  width: 100%;
+  min-width: 1400px;
   padding: 125px;
   background-size: contain;
   background-color: rgba(18, 18, 18, 1);
