@@ -32,7 +32,7 @@ p {
   position: relative;
   height: 500px;
   width: 1150px;
-  background-image: url("/resources/fonpainting.png");
+  background-image: url("../resources/fonpainting.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -156,7 +156,7 @@ p {
   position: relative;
   min-width: 1400px;
   min-height: 717px;
-  background-image: url("/resources/project-jk-lesnoy-peyzazh.png");
+  background-image: url("../resources/project-jk-lesnoy-peyzazh.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
